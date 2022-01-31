@@ -2,10 +2,6 @@ public class SmartCamera extends SmartObject implements MotionControl, Comparabl
 	
 	/*
 	 * 
-	 * Name, Surname: Can Gok
-	 * 
-	 * Student Number: 150118014
-	 * 
 	 * Smart Camera object is subclass of SmartObject, also has MotionControl and comparable interfaces.
 	 * 
 	 * Smart Cameras can be sorted via, Arrays.sort();
