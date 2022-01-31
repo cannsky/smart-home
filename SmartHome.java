@@ -4,12 +4,6 @@ import java.util.Arrays;
 public class SmartHome {
 	
 	/*
-	 * Name, Surname: Can Gok
-	 * 
-	 * Student Name: 150118014
-	 */
-	
-	/*
 	 * 
 	 * Smart Home has an array list of smart objects that has a type of smart object
 	 * 
