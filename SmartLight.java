@@ -4,9 +4,6 @@ import java.util.Calendar;
 public class SmartLight extends SmartObject implements LocationControl, Programmable{
 	
 	/*
-	 * Name, Surname: Can Gok
-	 * 
-	 * Student Number: 150118014
 	 * 
 	 * SmartLight object extended from SmartObject abstract class and implements LocationControl and Programmable interfaces.
 	 * 
