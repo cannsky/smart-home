@@ -2,12 +2,7 @@
 public abstract class SmartObject {
 	
 	/*
-	 * Name, Surname: Can Gok
-	 * 
-	 * Student Number: 150118014
-	 * 
-	 * Explanation of the Abstract Class SmartObject
-	 * 
+	 *
 	 * SmartObject is the abstract class of smart objects in smart home system.
 	 * SmartObject has the predefined variables and methods for smart objects.
 	 * alias, macId and IP are the same variables used in every smart object.
